@@ -1,1 +1,3 @@
+IIS Powershell Script
 
+This script is meant to harden IIS servers through leveraging the CIS benchmarks that have been defined.
